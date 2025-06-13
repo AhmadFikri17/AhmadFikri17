@@ -27,4 +27,4 @@ I'm an Informatics student at PENS (Politeknik Elektronika Negeri Surabaya), cur
 ---
 
 ### 📈 My Github Stats
-![Ahmad Fikri Ramadhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadFikri17&show_icons=true)
+![Ahmad Fikri Ramadham's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadFikri17&show_icons=true&bg_color=00000000)
