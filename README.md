@@ -1,9 +1,9 @@
 ![Ahmad Fikri](image/banner.png)
 
-👨‍💻 Informatics Student at PENS
-💡 Passionate about building web applications
-🛠️ Tech Stack: HTML, CSS, JS, PHP, MySQL
-🌱 Currently Exploring: React.js & Node.js
+👨‍💻 Informatics Student at PENS<br>
+💡 Passionate about building web applications<br>
+🛠️ Tech Stack: HTML, CSS, JS, PHP, MySQL<br>
+🌱 Currently Exploring: React.js & Node.js<br>
 
 <!--
 **AhmadFikri17/AhmadFikri17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
