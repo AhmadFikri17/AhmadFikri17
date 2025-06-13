@@ -1,6 +1,9 @@
-# Halo semua 👋
+![Ahmad Fikri](image/banner.png)
 
-Saya Ahmad Fikri Ramadhan, mahasiswa PENS yang sedang belajar GitHub!
+👨‍💻 Informatics Student at PENS
+💡 Passionate about building web applications
+🛠️ Tech Stack: HTML, CSS, JS, PHP, MySQL
+🌱 Currently Exploring: React.js & Node.js
 
 <!--
 **AhmadFikri17/AhmadFikri17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
