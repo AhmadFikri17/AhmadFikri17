@@ -12,15 +12,6 @@ I'm an Informatics student at PENS (Politeknik Elektronika Negeri Surabaya), cur
 
 ---
 
-### 📚 Projects I've Worked On
-- **Laporan Praktikum OS** – Operating System lab report for college coursework  
-
----
-
-### 🎯 Learning Goals & Roadmap
-
----
-
 ### 📫 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adfkr17)
 
@@ -28,3 +19,19 @@ I'm an Informatics student at PENS (Politeknik Elektronika Negeri Surabaya), cur
 
 ### 📈 My Github Stats
 ![Ahmad Fikri Ramadham's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadFikri17&show_icons=true&bg_color=00000000)
+
+---
+
+### 🎮 Play Game With Me
+
+<img src="https://raw.githubusercontent.com/AhmadFikri17/AhmadFikri17/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmadFikri17/AhmadFikri17/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmadFikri17/AhmadFikri17/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AhmadFikri17/AhmadFikri17/output/pacman-contribution-graph.svg">
+</picture>
+
+###
