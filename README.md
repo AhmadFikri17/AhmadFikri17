@@ -22,7 +22,7 @@ I'm an Informatics student at PENS (Politeknik Elektronika Negeri Surabaya), cur
 
 ---
 
-### 🎮 Play Game With Me
+### 🎮 Play Games With Me
 
 <img src="https://raw.githubusercontent.com/AhmadFikri17/AhmadFikri17/output/snake.svg" alt="Snake animation" />
 
