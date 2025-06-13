@@ -22,6 +22,7 @@ I'm an Informatics student at PENS (Politeknik Elektronika Negeri Surabaya), cur
 ---
 
 ### 📫 Connect With Me
-![https://instagram.com/adfkr17](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adfkr17)
+
 
 ---
