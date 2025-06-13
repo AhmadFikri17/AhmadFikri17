@@ -24,5 +24,7 @@ I'm an Informatics student at PENS (Politeknik Elektronika Negeri Surabaya), cur
 ### 📫 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adfkr17)
 
-
 ---
+
+### 📈 My Github Stats
+![Ahmad Fikri Ramadhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadFikri17&show_icons=true)
