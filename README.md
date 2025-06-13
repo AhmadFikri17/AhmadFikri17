@@ -27,11 +27,3 @@ I'm an Informatics student at PENS (Politeknik Elektronika Negeri Surabaya), cur
 <img src="https://raw.githubusercontent.com/AhmadFikri17/AhmadFikri17/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmadFikri17/AhmadFikri17/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmadFikri17/AhmadFikri17/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AhmadFikri17/AhmadFikri17/output/pacman-contribution-graph.svg">
-</picture>
-
-###
