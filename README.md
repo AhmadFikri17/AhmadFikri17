@@ -1,6 +1,6 @@
 # Halo semua 👋
 
-Saya Ahmad Fikri, mahasiswa PENS yang sedang belajar GitHub!
+Saya Ahmad Fikri Ramadhan, mahasiswa PENS yang sedang belajar GitHub!
 
 <!--
 **AhmadFikri17/AhmadFikri17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
